@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cheatandcheating
 - 👀 I’m interested in coding gaming
-- 🌱 I’m currently learning to be a good codder
+- 🌱 I’m currently learning to be a good coder
 - 📫 How to reach me cheatandcheating1@gmail.com
 
 
